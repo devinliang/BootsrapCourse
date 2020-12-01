@@ -9,7 +9,7 @@ Wenzao DCAM Mobile Web Design Course
 - container\-sm/md/lg/xl/xxl
 
 - 行: row
-- 列: col
+- 列: col, col\-x, col\-sm/md/lg/xl/xxl\-x
 
 ### breakpoint
 
