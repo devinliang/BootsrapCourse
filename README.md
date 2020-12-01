@@ -6,7 +6,10 @@ Wenzao DCAM Mobile Web Design Course
 
 - container
 - container-fluid
-- container-sm/md/lg/xl/xxl
+- container\-sm/md/lg/xl/xxl
+
+- 行: row
+- 列: col
 
 ### breakpoint
 
@@ -15,6 +18,17 @@ Wenzao DCAM Mobile Web Design Course
 - lg:992 960
 - xl:1200 1140
 - xxl:1400 1320
+
+### 主要語詞
+
+- primary
+- secondary
+- success
+- warning
+- danger
+- info
+- dark
+- light
 
 ## 盒狀邊界
 
